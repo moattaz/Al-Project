@@ -1,4 +1,4 @@
-# 🧠 Checkers AI Game
+<img width="3012" height="88" alt="image" src="https://github.com/user-attachments/assets/6dbf4047-8d56-4440-8fd1-cab9c2c49aa8" /># 🧠 Checkers AI Game
 
 A simple Checkers (Draughts) game built using Python with an AI opponent.
 The AI uses basic decision-making algorithms to simulate intelligent gameplay.
@@ -26,7 +26,7 @@ The AI uses basic decision-making algorithms to simulate intelligent gameplay.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/checkers-ai.git
+git clone https://github.com/moattaz/Al-Project.git
 cd checkers-ai
 ```
 
