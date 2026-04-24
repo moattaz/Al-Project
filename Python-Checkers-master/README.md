@@ -95,5 +95,5 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Moataz Ibrahim Saleh
-Moataz Mohamed Abdelaziz
+*Moataz Ibrahim Saleh
+*Moataz Mohamed Abdelaziz
